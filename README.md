@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to mahmoud emad's profile 👋 </h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEC7E1&center=true&vCenter=true&random=false&width=435&lines=A+Front+End+developer+from+Egypt.;A+Software+Engineer+!;Always+learn+new+things+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEC7E1&center=true&vCenter=true&random=false&width=435&lines=A+Software+Engineer+!;Always+learn+new+things+!" alt="Typing SVG" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadaelhakeim&label=Profile%20views&color=orange&style=flat" alt="shadaelhakeim" /> </p>
@@ -27,12 +27,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mahmoud-saleh-34b9351a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MahmoudEmad" height="30" width="40" /></a>
-<a href="https://fb.com/shadaelhakeim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shadaelhakeim" height="30" width="40" /></a>
-<a href="https://instagram.com/shadaelhakeim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shadaelhakeim" height="30" width="40" /></a>
-<a href="https://discord.gg/shadaelhakeim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#1667" height="30" width="40" /></a>
 </p>
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaledradwan96&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
