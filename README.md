@@ -27,5 +27,5 @@
 <a href="https://www.linkedin.com/in/mahmoud-saleh-34b9351a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MahmoudEmad" height="30" width="40" /></a>
  
 </p>
- <a href="mahmoudemad20016@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
+
 
