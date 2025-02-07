@@ -17,13 +17,16 @@ Always learning, improving, and pushing the boundaries of web development! 🚀
 
 ### HTML & CSS:
 1. [Temp](https://ma7mod7.github.io/Temp4/index.html)
-2. [Huddle](https://ma7mod7.github.io/Huddle/)
-3. [3-column-preview-card-component](https://ma7mod7.github.io/3-column-preview-card-component/)
+2. [clone to website](https://ma7mod7.github.io/Cloning/)
+3. [Huddle](https://ma7mod7.github.io/Huddle/)
+4. [3-column-preview-card-component](https://ma7mod7.github.io/3-column-preview-card-component/)
 
 ### HTML, CSS & JS:
 1. [ToDo](https://ma7mod7.github.io/To-DoList/)
 2. [CRUDS](https://ma7mod7.github.io/CRUD-/)
 3. [Watch](https://ma7mod7.github.io/watch/)
+4. [Blogs](https://ma7mod7.github.io/BLogs/)
+5. [E-commerce](https://ma7mod7.github.io/E-commerce/)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ma7mod7&icon=0&color=0)](https://visitcount.itsvg.in)
