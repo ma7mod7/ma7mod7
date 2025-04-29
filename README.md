@@ -40,7 +40,7 @@ Always learning, improving, and pushing the boundaries of web development! 🚀
 
    
 ### React.js:
-1. [ToDo App] (animated-toffee-17ea90.netlify.app)
+1. [ToDo App](animated-toffee-17ea90.netlify.app)
 2. [weather App](deluxe-halva-cb876d.netlify.app)
 3. [prayer App](fabulous-bunny-19d223.netlify.app)
 ### Front-end Mentor profile:
