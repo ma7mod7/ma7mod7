@@ -38,6 +38,11 @@ Always learning, improving, and pushing the boundaries of web development! 🚀
 4. [Blogs](https://ma7mod7.github.io/BLogs/)
 5. [E-commerce](https://ma7mod7.github.io/E-commerce/)
 
+   
+### React.js:
+1. [ToDo App] (animated-toffee-17ea90.netlify.app)
+2. [weather App](deluxe-halva-cb876d.netlify.app)
+3. [prayer App](fabulous-bunny-19d223.netlify.app)
 ### Front-end Mentor profile:
 [profile](https://www.frontendmentor.io/profile/ma7mod7/solutions)
 
