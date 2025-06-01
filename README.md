@@ -22,14 +22,11 @@ Always learning, improving, and pushing the boundaries of web development! 🚀
 
 ### 📊 Projects:
 
-### Chess Game:
-- [PyChessGame](https://github.com/ma7mod7/PyChessGame)
-
-### HTML & CSS:
-1. [Temp](https://ma7mod7.github.io/Temp4/index.html)
-2. [clone to website](https://ma7mod7.github.io/Cloning/)
-3. [Huddle](https://ma7mod7.github.io/Huddle/)
-4. [3-column-preview-card-component](https://ma7mod7.github.io/3-column-preview-card-component/)
+### React.js:
+1. [E-commerce](https://github.com/ma7mod7/E-commerceApp)
+2. [ToDo App](animated-toffee-17ea90.netlify.app)
+3. [weather App](deluxe-halva-cb876d.netlify.app)
+4. [prayer App](fabulous-bunny-19d223.netlify.app)
 
 ### HTML, CSS & JS:
 1. [ToDo](https://ma7mod7.github.io/To-DoList/)
@@ -37,13 +34,18 @@ Always learning, improving, and pushing the boundaries of web development! 🚀
 3. [Watch](https://ma7mod7.github.io/watch/)
 4. [Blogs](https://ma7mod7.github.io/BLogs/)
 
-### React.js:
-1. [E-commerce](https://github.com/ma7mod7/E-commerceApp)
-2. [ToDo App](animated-toffee-17ea90.netlify.app)
-3. [weather App](deluxe-halva-cb876d.netlify.app)
-4. [prayer App](fabulous-bunny-19d223.netlify.app)
+   
+### HTML & CSS:
+1. [Temp](https://ma7mod7.github.io/Temp4/index.html)
+2. [clone to website](https://ma7mod7.github.io/Cloning/)
+3. [Huddle](https://ma7mod7.github.io/Huddle/)
+4. [3-column-preview-card-component](https://ma7mod7.github.io/3-column-preview-card-component/)
+
 ### Front-end Mentor profile:
 [profile](https://www.frontendmentor.io/profile/ma7mod7/solutions)
+
+
+
 
 
 
