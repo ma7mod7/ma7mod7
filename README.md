@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm a **Frontend developer** dedicated to building high-performance and user-friendly websites. My goal is to create seamless, accessible, and engaging web experiences.
-I'm also passionate about exploring **3D web technologies** to bring interactive and immersive elements to websites, making them more dynamic and enjoyable for users.
+I'm also passionate about exploring **animation web technologies like GSAP** to bring interactive and immersive elements to websites, making them more dynamic and enjoyable for users.
 
 Always learning, improving, and pushing the boundaries of web development! 🚀
 
