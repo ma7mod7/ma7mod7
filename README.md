@@ -23,11 +23,13 @@ Always learning, improving, and pushing the boundaries of web development! 🚀
 ### 📊 Projects:
 
 ### React.js:
-1.[zad-enginerring-learning](https://eloquent-halva-c8ae98.netlify.app/)/n
-2. [E-commerce](https://github.com/ma7mod7/E-commerceApp)
-3. [ToDo App](animated-toffee-17ea90.netlify.app)
-4. [weather App](deluxe-halva-cb876d.netlify.app)
-5. [prayer App](fabulous-bunny-19d223.netlify.app)
+1. [Neura](https://neuralearning.netlify.app/)
+2. [zentry](https://zentry-animation.netlify.app/)
+3. [zad-enginerring-learning](https://eloquent-halva-c8ae98.netlify.app/)
+4. [E-commerce](https://github.com/ma7mod7/E-commerceApp)
+5. [ToDo App](animated-toffee-17ea90.netlify.app)
+6. [weather App](deluxe-halva-cb876d.netlify.app)
+7. [prayer App](fabulous-bunny-19d223.netlify.app)
 
 ### HTML, CSS & JS:
 1. [ToDo](https://ma7mod7.github.io/To-DoList/)
